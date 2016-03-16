@@ -238,9 +238,9 @@ function create_config( )
     "plugins",
     "time",
     "welcome"
-     "Hellwo",
-     "admin",
-     "name",
+    "Hellwo",
+    "admin",
+    "name",
     },
     sudo_users = {149516204,142627841},--Sudo users
     disabled_channels = {},
